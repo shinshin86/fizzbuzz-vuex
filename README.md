@@ -4,7 +4,7 @@ This is created to learn Vuex.
 
 
 
-## Develop
+## Develop (Print fizzbuzz)
 
 ```bash
 yarn run dev
